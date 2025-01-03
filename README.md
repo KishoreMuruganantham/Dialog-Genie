@@ -14,7 +14,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KishoreMuruganantham/DialogGenie.git
+   git clone https://github.com/KishoreMuruganantham/Dialog-Genie.git
    ```
 
 2. Install dependencies:
